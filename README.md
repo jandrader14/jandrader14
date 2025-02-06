@@ -4,15 +4,13 @@
 
  📍Soy de Bogotá D.C. Colombia 💛🩵❤️
 
-  
-
 ### Sobre mí
 
 🎓 Soy Ingeniera de Sistemas
 
 ## Contacto
 
-📧Correo: jandrader98@gmail.com
+📧Correo: <jandrader98@gmail.com>
 
 También podemos conectar a través de mi  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandrader14/)
@@ -34,22 +32,3 @@ También podemos conectar a través de mi
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-
-
-<!--
-**jandrader14/jandrader14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
